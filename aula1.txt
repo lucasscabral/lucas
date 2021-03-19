@@ -1,1 +1,24 @@
 Aprendendo git
+
+1) Comando para criar repositório git
+	git init
+
+2) Comando para rastrear arquivos
+	git add nome_arquivo
+	
+3) Comando para verificar status de um repositório
+	git status
+	
+4) Comando para confirmar modificações com mensagens
+	git commit -m " SUA MENSAGEM"
+	
+5) Comando para lista branch 
+	git branch 
+	
+6) Comando para verificar logs do repositório
+	git log
+	
+7) Comando para mesclar branches
+	git merge nome_branch
+		 		
+				
